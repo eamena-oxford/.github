@@ -1,3 +1,3 @@
-# .github
+# eamena-oxford
 
-My README
+EAMENA project's repositories
