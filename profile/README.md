@@ -10,8 +10,8 @@
 | Arches version | GitHub repo | EA-based instance |
 |----------------|-------------|-------------------|
 | Arches v3      |  https://github.com/eamena-project/eamena-core-arches3           |        http://108.128.13.81/           |
-| Arches v5.2      |           |        http://108.128.13.81/           |
-| Arches v7.3      |           |       http://54.74.110.129/           |
+| Arches v5.2      |           |        http://54.74.110.129/, http://54.155.79.196/           |
+| Arches v7.3      |           |        https://database.eamena.org/         |
 
 # News
 
