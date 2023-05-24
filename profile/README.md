@@ -15,4 +15,5 @@
 
 # News
 
-The `eamena-oxford` GitHub organization is renamed `eamena-project`
+* EAMENA contribute to the Arches Cultural Heritage Partners GitHub organization: https://github.com/achp-project
+* The `eamena-oxford` GitHub organization is renamed `eamena-project`
