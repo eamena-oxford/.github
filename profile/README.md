@@ -1,9 +1,9 @@
 # eamena-project
 > EAMENA project's repositories
 
-* [eamena-arches-dev](https://github.com/eamena-project/eamena-arches-dev): development repository
+* [eamena-arches-dev](https://github.com/eamena-project/eamena-arches-dev): development repository (general purpose)
 * [eamenaR](https://github.com/eamena-project/eamenaR): R package for EAMENA or other Arches-based platform analysis
-* ...
+* [eamena-gee](https://github.com/eamena-project/eamena-gee): development repository (Google Earth Engine, AI/ML, etc.) 
 
 # Arches instances
 
