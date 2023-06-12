@@ -1,8 +1,6 @@
 # eamena-project
 > EAMENA project's repositories
 
----
-
 🚦[CPF training, Amman, Jordan - 18-22 June, 2023](https://github.com/eamena-project/eamena-arches-dev/tree/main/training#users--database-managers--sys-admins-training)🚦
 ---
 
