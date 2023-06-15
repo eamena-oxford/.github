@@ -1,9 +1,9 @@
 # eamena-project
-> EAMENA project's repositories
 
 * [CPF training, Amman, Jordan - 18-22 June, 2023](https://github.com/eamena-project/eamena-arches-dev/tree/main/training#users--database-managers--sys-admins-training)
 ---
 
+# EAMENA project's repositories
 
 * [eamena-arches-dev](https://github.com/eamena-project/eamena-arches-dev): development repository (general purpose)
 * [eamenaR](https://github.com/eamena-project/eamenaR): R package for EAMENA or other Arches-based platform analysis
