@@ -21,3 +21,13 @@
 
 * EAMENA contributes to the Arches Cultural Heritage Partners GitHub organization: https://github.com/achp-project
 * The `eamena-oxford` GitHub organization is renamed `eamena-project`
+
+# Talks
+
+| 2022 | 2023 |
+|------|------|
+| [CAA22#S07](https://github.com/eamena-project/eamena-arches-dev/blob/main/event/CAA-S07.md)    |   [GMPCA](https://eamena-project.github.io/eamena-arches-dev/talks/2023-gmpca/pres/#/title-slide)   |
+| [EAMENA WS](https://eamena-project.github.io/reveal.js/projects/time.html)     |      |
+|      |      |
+
+
