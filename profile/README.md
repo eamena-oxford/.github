@@ -19,6 +19,7 @@
 
 # News
 
+* EAMENA upgraded from Arches v5.2 to Arches v7.3
 * EAMENA contributes to the Arches Cultural Heritage Partners GitHub organization: https://github.com/achp-project
 * The `eamena-oxford` GitHub organization is renamed `eamena-project`
 
