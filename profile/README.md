@@ -19,6 +19,7 @@
 
 # News
 
+* EAMENA is a PeriodO authority http://n2t.net/ark:/99152/p0m64td and registered 235 periods 
 * [CPF training, Amman, Jordan - 18-22 June, 2023](https://github.com/eamena-project/eamena-arches-dev/tree/main/training#users--database-managers--sys-admins-training)
 * EAMENA upgraded from Arches v5.2 to Arches v7.3
 * EAMENA contributes to the Arches Cultural Heritage Partners GitHub organization: https://github.com/achp-project
