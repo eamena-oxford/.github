@@ -19,6 +19,7 @@
 
 # News
 
+* EAMENA/APAAME "tight links" (*in progress*): linking the DB with the new ArchDAMS ResourceSpace-based server ([here](https://github.com/eamena-project/eamena-arches-dev/blob/main/projects/apaame/README.md#apaame-server))
 * EAMENA is a PeriodO authority http://n2t.net/ark:/99152/p0m64td and registered 235 periods 
 * [CPF training, Amman, Jordan - 18-22 June, 2023](https://github.com/eamena-project/eamena-arches-dev/tree/main/training#users--database-managers--sys-admins-training)
 * EAMENA upgraded from Arches v5.2 to Arches v7.3
