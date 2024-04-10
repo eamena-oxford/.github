@@ -8,7 +8,9 @@
 * [eamenaR](https://github.com/eamena-project/eamenaR): R package for EAMENA or other Arches-based platform analysis
 * [eamena](https://github.com/eamena-project/eamena) the *package* to install an Arches/EAMENA-like instance 
 * [eamena-gee](https://github.com/eamena-project/eamena-gee): development repository (Google Earth Engine, AI/ML, etc.)
+  
 ...
+
 * [arches](https://github.com/eamena-project/arches): Fork of https://github.com/archesproject/arches
 
 # Arches instances
