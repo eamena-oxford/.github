@@ -7,7 +7,9 @@
 * [eamena-data](https://github.com/eamena-project/eamena-data): set of data regularly released on Zenodo (DOIs) 
 * [eamenaR](https://github.com/eamena-project/eamenaR): R package for EAMENA or other Arches-based platform analysis
 * [eamena](https://github.com/eamena-project/eamena) the *package* to install an Arches/EAMENA-like instance 
-* [eamena-gee](https://github.com/eamena-project/eamena-gee): development repository (Google Earth Engine, AI/ML, etc.) 
+* [eamena-gee](https://github.com/eamena-project/eamena-gee): development repository (Google Earth Engine, AI/ML, etc.)
+...
+* [arches](https://github.com/eamena-project/arches): Fork of https://github.com/archesproject/arches
 
 # Arches instances
 
@@ -19,7 +21,8 @@
 
 # News
 
-* EAMENA/APAAME "tight links" (*in progress*): linking the DB with the new ArchDAMS ResourceSpace-based server ([here](https://github.com/eamena-project/eamena-arches-dev/blob/main/projects/apaame/README.md#apaame-server))
+* (*in progress*) Internationalisation/localisation to French and Central Kurdish (Sorani) ([here](https://github.com/eamena-project/eamena-arches-dev/tree/main/dbs/database.eamena/i18n#i18n))
+* (*in progress*) EAMENA/APAAME "tight links", linking the DB with the new ArchDAMS ResourceSpace-based server ([here](https://github.com/eamena-project/eamena-arches-dev/blob/main/projects/apaame/README.md#apaame-server))
 * EAMENA is a PeriodO authority http://n2t.net/ark:/99152/p0m64td and registered 235 periods 
 * [CPF training, Amman, Jordan - 18-22 June, 2023](https://github.com/eamena-project/eamena-arches-dev/tree/main/training#users--database-managers--sys-admins-training)
 * EAMENA upgraded from Arches v5.2 to Arches v7.3
