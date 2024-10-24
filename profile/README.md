@@ -4,7 +4,10 @@
 
 * [eamena-arches-dev](https://github.com/eamena-project/eamena-arches-dev): development repository (general purpose)
 * [eamena-functions](https://github.com/eamena-project/eamena-functions): set of functions that can be embeded and run in an online Jupyter Notebook
-* [eamena-data](https://github.com/eamena-project/eamena-data): set of data regularly released on Zenodo (DOIs) 
+* [eamena-data](https://github.com/eamena-project/eamena-data): set of data regularly released on Zenodo (DOIs)
+
+---
+  
 * [eamenaR](https://github.com/eamena-project/eamenaR): R package for EAMENA or other Arches-based platform analysis
 * [eamena](https://github.com/eamena-project/eamena): the *package* to install an Arches/EAMENA-like instance
 * [EAMENA-MachineLearning-ACD](https://github.com/eamena-project/EAMENA-MachineLearning-ACD): the ML Automatic Change Detection software
