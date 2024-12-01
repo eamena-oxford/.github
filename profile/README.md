@@ -24,6 +24,7 @@
 
 # News
 
+* [PADA workshop](https://github.com/eamena-project/eamena-arches-dev/tree/main/talks/2024-publication)
 * (*in progress*) Internationalisation/localisation to French and Central Kurdish (Sorani) ([here](https://github.com/eamena-project/eamena-arches-dev/tree/main/dbs/database.eamena/i18n#i18n))
 * (*in progress*) EAMENA/APAAME "tight links", linking the DB with the new ArchDAMS ResourceSpace-based server ([here](https://github.com/eamena-project/eamena-arches-dev/blob/main/projects/apaame/README.md#apaame-server))
 * EAMENA is a PeriodO authority http://n2t.net/ark:/99152/p0m64td and registered 235 periods 
